@@ -2,8 +2,9 @@
 
 A browser extension built specifically for Tella.tv that saves screen recordings, presentations, and video content to your computer as MP4 files. Navigate to any Tella video, press play, and click the download button. Works on Tella.tv pages and Tella embeds on other websites. 3 free downloads included.
 
-**Product page:** [https://serp.ly/tellatv-downloader](https://serp.ly/tellatv-downloader)
-**Help center:** [https://help.serp.co/en/](https://help.serp.co/en/)
+**Product page:** [https://serp.ly/tellatv-downloader](https://serp.ly/tellatv-downloader)<br>
+**Help center:** [https://help.serp.co/en/](https://help.serp.co/en/)<br>
+**Latest release:** [https://github.com/serpapps/tellatv-downloader/releases/latest](https://github.com/serpapps/tellatv-downloader/releases/latest)
 
 ## Why TellaTV Downloader
 
