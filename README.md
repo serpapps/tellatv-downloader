@@ -12,15 +12,15 @@ TellaTV Downloader is a browser extension built for people who want a simpler wa
 
 ## Links
 
-- 🚀 Get it here: [TellaTV Downloader](https://serp.ly/tellatv-downloader)
-- 🆕 Latest release: [GitHub Releases](https://github.com/serpapps/tellatv-downloader/releases/latest)
-- ❓ Help center: [SERP Help](https://help.serp.co/en/)
-- 🐛 Report bugs: [GitHub Issues](https://github.com/serpapps/tellatv-downloader/issues)
-- 💡 Request features: [Feature Requests](https://github.com/serpapps/tellatv-downloader/issues)
+- ðŸš€ Get it here: [TellaTV Downloader](https://serp.ly/tellatv-downloader)
+- ðŸ†• Latest release: [GitHub Releases](https://github.com/serpapps/tellatv-downloader/releases/latest)
+- â“ Help center: [SERP Help](https://help.serp.co/en/)
+- ðŸ› Report bugs: [GitHub Issues](https://github.com/serpapps/tellatv-downloader/issues)
+- ðŸ’¡ Request features: [Feature Requests](https://github.com/serpapps/tellatv-downloader/issues)
 
 ## Preview
 
-![TellaTV Downloader workflow preview](assets/workflow-preview.svg)
+![TellaTV Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 
