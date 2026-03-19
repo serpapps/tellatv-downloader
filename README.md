@@ -134,22 +134,22 @@ Start here: [https://serp.ly/tellatv-downloader](https://serp.ly/tellatv-downloa
 
 ## FAQ
 
-**What kinds of Tella videos can I download**  
+**What kinds of Tella videos can I download?**  
 Screen recordings, presentations, demos, and walkthrough videos hosted on Tella or shown through supported embedded Tella players.
 
-**Do I need to press play first**  
+**Do I need to press play first?**  
 Yes. Tella streams are typically only exposed after playback begins.
 
-**What file format do downloads use**  
+**What file format do downloads use?**  
 Videos are saved as MP4 files.
 
-**Does it work on embedded Tella players**  
+**Does it work on embedded Tella players?**  
 Yes. The extension supports Tella embeds on supported third-party pages.
 
-**Where are videos saved**  
+**Where are videos saved?**  
 They are saved to your default Downloads location.
 
-**Do I need extra software**  
+**Do I need extra software?**  
 No. Everything runs through the browser extension.
 
 ## Notes
