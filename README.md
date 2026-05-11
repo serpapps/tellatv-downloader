@@ -1,5 +1,11 @@
 # TellaTV Downloader (Browser Extension)
 
+## Watch the video
+
+<a href="https://www.youtube.com/watch?v=b54H317U990" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/tellatv-video-downloader-save-videos-before-they-disappear.jpg" width="700px">
+</a>
+
 > Download Tella videos, screen recordings, and presentations as MP4 files from Tella pages and supported embeds.
 
 TellaTV Downloader is a browser extension built for people who want a simpler way to save Tella videos for offline access. It works on direct Tella pages and supported embedded Tella players, giving you a browser-first workflow for detecting the video, choosing the source that is available, and exporting an MP4 file you can replay later.
