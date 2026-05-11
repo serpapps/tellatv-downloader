@@ -10,12 +10,6 @@ TellaTV Downloader is a browser extension built for people who want a simpler wa
 - Use in-page controls or the extension popup for fast access
 - Replay downloaded videos offline on any standard media player
 
-## Watch The Video
-
-<a href="https://www.youtube.com/watch?v=b54H317U990" target="_blank">
-<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/tellatv-video-downloader-save-videos-before-they-disappear.jpg" width="700px">
-</a>
-
 ## Links
 
 - :rocket: Get it here: [TellaTV Downloader](https://serp.ly/tellatv-downloader)
@@ -26,7 +20,9 @@ TellaTV Downloader is a browser extension built for people who want a simpler wa
 
 ## Preview
 
-![TellaTV Downloader workflow preview](https://raw.githubusercontent.com/serpapps/tellatv-downloader/refs/heads/main/assets/workflow-preview.webp)
+<a href="https://www.youtube.com/watch?v=b54H317U990" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/tellatv-video-downloader-save-videos-before-they-disappear.jpg" width="700px">
+</a>
 
 ## Table of Contents
 
